@@ -12,4 +12,6 @@ the following steps were required:
  and rebuilds the table by calling the buildTable function.
  Using d3.selectAll I attached an event listener (on change event) to pick up the changes that were made to each filter.
  
+ The operative files in the repository are app.js and index.html.
+ 
  I think you will notice it works pretty well.  :)
