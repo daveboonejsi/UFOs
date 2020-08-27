@@ -69,4 +69,4 @@ function filterTable() {
 d3.selectAll("input").on("change", updateFilters);
 
 // Build the table when the page loads
-buildTable(filteredData);
+buildTable(tableData);
